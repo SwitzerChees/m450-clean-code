@@ -1,0 +1,14 @@
+{
+  "name": "clean_code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SwitzerChees/m450-clean-code.git",
+  "author": "switzerchees <patrickmichel96@yahoo.de>",
+  "license": "MIT",
+  "scripts": {
+    "prettify": "prettier --write \"**/*.js\""
+  },
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
+}
